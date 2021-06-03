@@ -1,1 +1,34 @@
+<<<<<<< HEAD
 .captcha{width:100px;height:30px}a.tlink{color:#3498db;text-decoration:none}a.tlink:hover{color:#2e468c;text-decoration:none}#link_admin{color:#3498db;text-decoration:none}#link_admin:hover{color:#2e468c;text-decoration:none}#ico{float:left;display:block;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none}
+=======
+
+
+.captcha {
+	width:100px;
+	height:30px;
+}
+a.tlink {
+	color:#3498db;
+	text-decoration:none;
+}
+a.tlink:hover {
+	color:#2E468C;
+	text-decoration:none;
+}
+#link_admin {
+	color:#3498db;
+	text-decoration:none;
+}
+#link_admin:hover {
+	color:#2E468C;
+	text-decoration:none;
+}
+#ico {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+>>>>>>> 521a0c28b710526d9f5569df48f8074c8e294924
