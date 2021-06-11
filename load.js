@@ -19,8 +19,6 @@ loadJS("https://cdn.bootcdn.net/ajax/libs/vue/2.5.22/vue.min.js") //Vue2.5.22
 loadJS("https://cdn.luogu.com.cn/markdown-palettes/markdown-palettes.min.js"); //洛谷Markdown JS（如有侵权，光速替换）
 loadCSS("https://cdn.luogu.com.cn/markdown-palettes/markdown-palettes.css"); //洛谷Markdown CSS
 loadJS("https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"); //MD5库
-loadCSS("https://liutianyouonluogu.github.io/css-js/Rclick.css"); //Rclick库 CSS
-loadJS("https://liutianyouonluogu.github.io/css-js/Rclick.js"); //Rclick库 JS
 loadCSS("https://liutianyouonluogu.github.io/css-js/custom.min.css");
 loadJS("https://liutianyouonluogu.github.io/css-js/main.js");
 document.write("<style type='text/css'>\n");
