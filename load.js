@@ -22,7 +22,7 @@ loadCSS("https://cdn.luogu.com.cn/markdown-palettes/markdown-palettes.css"); //�
 loadJS("https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"); //MD5库
 loadCSS("https://liutianyouonluogu.github.io/css-js/Rclick.css"); //Rclick库 CSS
 loadJS("https://liutianyouonluogu.github.io/css-js/Rclick.js"); //Rclick库 JS
-loadCSS("https://liutianyouonluogu.github.io/css-js/custom.css");
+loadCSS("https://liutianyouonluogu.github.io/css-js/custom.min.css");
 loadJS("https://liutianyouonluogu.github.io/css-js/main.js");
 document.write("<style type='text/css'>\n");
 //字体文件
