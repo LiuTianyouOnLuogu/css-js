@@ -14,7 +14,6 @@ function loadCSS(url) {
 };
 loadCSS("https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css"); //MDUI CSS
 loadJS("https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/js/mdui.min.js"); //MDUI JS
-loadJS("https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"); //Jquery3.6.0
 loadJS("https://cdn.bootcdn.net/ajax/libs/jquery.form/4.3.0/jquery.form.min.js"); //JQueryForm4.3.0
 loadJS("https://cdn.bootcdn.net/ajax/libs/vue/2.5.22/vue.min.js") //Vue2.5.22
 loadJS("https://cdn.luogu.com.cn/markdown-palettes/markdown-palettes.min.js"); //洛谷Markdown JS（如有侵权，光速替换）
